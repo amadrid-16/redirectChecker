@@ -1,0 +1,300 @@
+Number of Errors:149
+Number of Lines:111
+Error:Line:1
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:2
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:3
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:4
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:5
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:6
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:7
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:8
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:9
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:10
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:11
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:12
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:13
+	Missing Trailing Slash: Expected: /services/social/ Received: /services/social
+Error:Line:13
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:14
+	Missing Trailing Slash: Expected: /internet/ Received: /internet
+Error:Line:14
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:15
+	Missing Trailing Slash: Expected: /showcase/info@imforza.com/ Received: /showcase/info@imforza.com
+Error:Line:15
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:16
+	Missing Trailing Slash: Expected: /services/info@imforza.com/ Received: /services/info@imforza.com
+Error:Line:16
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:17
+	Missing Trailing Slash: Expected: /services/websites/info@imforza.com/ Received: /services/websites/info@imforza.com
+Error:Line:17
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:18
+	Missing Trailing Slash: Expected: /order/ Received: /order
+Error:Line:18
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:18
+	Incorrect Host: Expected: www.imforza.com Received: shop.imforza.com
+Error:Line:19
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:20
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:21
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:22
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:22
+	Missing Closing Slash: Expected: /blog/ Received: /blog
+Error:Line:23
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:23
+	Missing Closing Slash: Expected: /blog/ Received: /blog
+Error:Line:24
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:25
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:26
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:27
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:28
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:29
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:30
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:31
+	Missing Trailing Slash: Expected: /wp-content/uploads/2012/11/social-media-design-cheat-sheet.png/ Received: /wp-content/uploads/2012/11/social-media-design-cheat-sheet.png
+Error:Line:31
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:31
+	Missing Closing Slash: Expected: /wp-content/uploads/2014/06/social-media-design-cheat-sheet.png/ Received: /wp-content/uploads/2014/06/social-media-design-cheat-sheet.png
+Error:Line:32
+	Missing Trailing Slash: Expected: /blog/how-to-find-your-why/ Received: /blog/how-to-find-your-why
+Error:Line:32
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:33
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:33
+	Incorrect Host: Expected: www.imforza.com Received: shop.imforza.com
+Error:Line:34
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:35
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:36
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:37
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:38
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:39
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:40
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:41
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:42
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:43
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:44
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:45
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:46
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:47
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:48
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:49
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:50
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:51
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:52
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:53
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:54
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:55
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:56
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:57
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:58
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:59
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:60
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:61
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:62
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:63
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:64
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:65
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:66
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:67
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:68
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:69
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:70
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:71
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:72
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:73
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:74
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:75
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:76
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:77
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:78
+	Missing Trailing Slash: Expected: /wp-content/uploads/2011/12/imforza-los-angeles-mission.jpg/ Received: /wp-content/uploads/2011/12/imforza-los-angeles-mission.jpg
+Error:Line:78
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:78
+	Incorrect Host: Expected: www.imforza.com Received: live-imforza.gotpantheon.com
+Error:Line:78
+	Missing Closing Slash: Expected: /wp-content/uploads/2011/12/imforza-la-mission-1024x768.jpg/ Received: /wp-content/uploads/2011/12/imforza-la-mission-1024x768.jpg
+Error:Line:79
+	Missing Trailing Slash: Expected: /shop/ Received: /shop
+Error:Line:79
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:79
+	Incorrect Host: Expected: www.imforza.com Received: shop.imforza.com
+Error:Line:79
+	Missing Opening Slash: Expected: / Received: 
+Error:Line:80
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:80
+	Incorrect Host: Expected: www.imforza.com Received: shop.imforza.com
+Error:Line:80
+	Missing Opening Slash: Expected: / Received: 
+Error:Line:81
+	Missing Trailing Slash: Expected: /internet-marketing-agency/ Received: /internet-marketing-agency
+Error:Line:81
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:82
+	Missing Trailing Slash: Expected: /wp-content/uploads/2013/03/social-media-design-cheat-sheet.png/ Received: /wp-content/uploads/2013/03/social-media-design-cheat-sheet.png
+Error:Line:82
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:82
+	Missing Closing Slash: Expected: /wp-content/uploads/2014/07/social-media-design-cheat-sheet.png/ Received: /wp-content/uploads/2014/07/social-media-design-cheat-sheet.png
+Error:Line:83
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:84
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:85
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:86
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:87
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:88
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:89
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:90
+	Missing Trailing Slash: Expected: /blog/content-promotion-tactics/Is/ Received: /blog/content-promotion-tactics/Is
+Error:Line:90
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:91
+	Missing Trailing Slash: Expected: /terms-of-use/ Received: /terms-of-use
+Error:Line:91
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:92
+	Missing Trailing Slash: Expected: /pay-per-click/ Received: /pay-per-click
+Error:Line:92
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:93
+	Missing Trailing Slash: Expected: /blog/top-internet-marketing-articles-2014/Did/ Received: /blog/top-internet-marketing-articles-2014/Did
+Error:Line:93
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:94
+	Missing Trailing Slash: Expected: /blog/8-seo-stats-that-are-hard-to-ignore/%20347/ Received: /blog/8-seo-stats-that-are-hard-to-ignore/%20347
+Error:Line:94
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:95
+	Missing Trailing Slash: Expected: /privacy-policy/ Received: /privacy-policy
+Error:Line:95
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:96
+	Missing Trailing Slash: Expected: /blogFollow/ Received: /blogFollow
+Error:Line:96
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:97
+	Missing Trailing Slash: Expected: /services/paid/ Received: /services/paid
+Error:Line:97
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:98
+	Missing Trailing Slash: Expected: /order/marketing-web-design/ Received: /order/marketing-web-design
+Error:Line:98
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:98
+	Missing Closing Slash: Expected: /services/website-design/ Received: /services/website-design
+Error:Line:99
+	Missing Trailing Slash: Expected: /a/ Received: /a
+Error:Line:99
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:100
+	Missing Trailing Slash: Expected: /div/ Received: /div
+Error:Line:100
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:101
+	Missing Trailing Slash: Expected: /about-us/team/robots.txt/ Received: /about-us/team/robots.txt
+Error:Line:101
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:102
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:103
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:104
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:105
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:106
+	Incorrect Scheme: Expected: https Received: http
+Error:Line:109
+	Incorrect Scheme: Expected: https Received: 
+Error:Line:109
+	Incorrect Host: Expected: www.imforza.com Received: 
+Error:Line:110
+	Incorrect Scheme: Expected: https Received: 
+Error:Line:110
+	Incorrect Host: Expected: www.imforza.com Received: 
+Error:Line:111
+	Incorrect Scheme: Expected: https Received: 
+Error:Line:111
+	Incorrect Host: Expected: www.imforza.com Received: 
