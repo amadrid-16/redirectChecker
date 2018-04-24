@@ -1,4 +1,4 @@
-Redirect 301 /services/blog-marketing/ http://www.imforza.com/services/social-media-marketing/
+Redirect 302 /services/blog-marketing/ http://www.imforza.com/services/social-media-marketing/
 Redirect 301 /services/copywriting/    	http://www.imforza.com/services/search-engine-optimization/
 Redirect 301 /services/lead-generation/	http://www.imforza.com/services/conversion-optimization/
 Redirect 301 /services/marketing-design/	http://www.imforza.com/services/web-design/
